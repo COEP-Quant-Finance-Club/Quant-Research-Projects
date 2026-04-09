@@ -113,21 +113,7 @@ C = S·N(d1) − K·e^(−rT)·N(d2)
 ├── 📄 report.pdf                 # Final Phase-I report
 ├── 📄 ieee-paper.pdf            # IEEE formatted version
 ├── 📄 README.md                 # Project documentation
-│
-├── 📁 src (future work)
-│   ├── black_scholes.py
-│   ├── heston_model.py
-│   ├── hybrid_model.py
-│
-├── 📁 data
-│   └── simulated_data.csv
-│
-├── 📁 results
-│   ├── graphs/
-│   └── metrics/
-```
 
----
 
 ## 🚀 Applications
 
